@@ -1,12 +1,6 @@
-<div style="text-align: center;">
-<img width="500" alt="next supabase and storybook logos" src="https://user-images.githubusercontent.com/29741570/147683398-ea745d9c-efcd-483c-a5be-0f68ea23ace0.png" />
-</div>
+This template was created using the [Supabase Quick Start Guide](https://supabase.com/docs/guides/with-nextjs)
 
-This starter was created using the [Supabase Quick Start Guide](https://supabase.com/docs/guides/with-nextjs) and the [Storybook/Next JS Guide](https://storybook.js.org/blog/get-started-with-storybook-and-next-js/)
-
-This starter also includes a branch [without Storybook](https://github.com/drteresavasquez/next-supabase-storybook-starter/tree/no-storybook).
-
-## Getting Started with Next JS and Supabase
+## Getting Started
 
 First, do the installations, then run the development server:
 
@@ -23,16 +17,6 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 [API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Getting started with Storybook
-
-Start the storybook server
-
-```bash
-npm run storybook
-```
-
-Open [port 6006](http://localhost:6006/)
 
 ## Learn More
 
